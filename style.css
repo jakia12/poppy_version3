@@ -81,7 +81,7 @@ body {
 .mar_bg {
   background-image: url(/assets/images/marbg.svg);
   background-position: center;
-  background-size: cover;
+  background-size: auto;
 }
 
 .mar_wrapper {
@@ -193,7 +193,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 40px 0;
+  padding: 46px 0;
 }
 
 /* tokenomics section */
